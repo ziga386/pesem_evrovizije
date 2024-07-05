@@ -13,5 +13,3 @@ Projekt sem izdelal s pomočjo programa _Mathematica_.
 2. **Analiza trendov**: Analiziral bom vpliv različnih dejavnikov, kot so žanr, jezik in spol izvajalca, na rezultate. Vizualizacije bodo vključene.
 3. **Razvoj funkcij**: Ustvaril bom funkcije za pridobivanje vpogledov, kot so točke po državah in uvrstitve skozi leta.
 4. **Video predstavitev**: Pripravil bom video predstavitev ključnih ugotovitev in demonstracijo aplikacije.
-
-#### Povezava do videoposnetka
